@@ -424,6 +424,10 @@ section .title::after{
     width:65%;
 }
 
+.skills-content .right .node::before,.skills-content .right .express::before{
+    width:45%;
+}
+
 /* tools section */
 .tools .title::after{
     content: "what i know";

@@ -9,12 +9,12 @@ Responsive Design: The website adapts seamlessly to various screen sizes and dev
 Project Showcase: A dedicated section for displaying my projects, complete with descriptions, technologies used, and links to live demos or GitHub repositories.
 
 # Tools and Technologies:
-  Frontend Technologies: HTML5, CSS3, Tailwind CSS, JavaScript, React.js
-  Backend Technologies: Node.js, Express.js, Python
-  Databases: SQL, MongoDB
-  Development Tools: Visual Studio Code, Postman, and Chrome DevTools.
-  Backend services: Firebase
-  Deployment Platforms:  Netlify, Vercel
+  Frontend Technologies: HTML5, CSS3, Tailwind CSS, JavaScript, React.js<br>
+  Backend Technologies: Node.js, Express.js, Python<br>
+  Databases: SQL, MongoDB<br>
+  Development Tools: Visual Studio Code, Postman, and Chrome DevTools.<br>
+  Backend services: Firebase<br>
+  Deployment Platforms:  Netlify, Vercel<br>
   
 Contact Form: An easy way for visitors to reach out for collaborations or inquiries.
 
